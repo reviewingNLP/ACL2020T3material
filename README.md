@@ -22,5 +22,5 @@ Paper42.pdf
 Paper42_ReviewersReports.pdf
 - Shared Notes from the July 5 session (copied from live Framapad on July 8, 2020): 
 acltutorialonreviewing-sharedNotes.pdf
-- Book on Reviewing NLP
+- Book on Reviewing NLP: forthcoming... stay tuned :-)
 
