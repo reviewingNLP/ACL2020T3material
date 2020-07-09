@@ -1,6 +1,6 @@
 # ACL2020T3material
 Contains all teaching material used in ACL 2020 Tutorial "Reviewing NLP" given on July 5 2020 and described at: 
-https://virtual.acl2020.org/tutorial_T3.html
+https://virtual.acl2020.org/tutorial_T3.html This content is shared under a CC-BY-NC-SA license. 
 
 - Short description of the tutorial, including a recommended reading list: 
 ACL-Tutorial-Reviewing-Description-ReadingList.pdf
